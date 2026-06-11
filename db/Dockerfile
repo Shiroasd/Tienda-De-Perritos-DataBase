@@ -6,6 +6,7 @@ FROM mysql:8
 #hola
 #de nuevo
 #holaaaaa
+#aqui cambios minimos
 # Variables de entorno (se aplicarán automáticamente al iniciar el contenedor)
 ENV MYSQL_ROOT_PASSWORD=admin123
 ENV MYSQL_DATABASE=tienda_perritos
